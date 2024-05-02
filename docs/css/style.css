@@ -15,10 +15,8 @@ body {
 	font-size: 15px;
 	color: #ffffff;
 	background: #26476E;
-	min-height: 100vh;
+	/* min-height: 100vh; */
 	height: 100%;
-  display: flex;
-  flex-direction: column;
 }
 
 a:link {
@@ -81,7 +79,7 @@ a:link {
 	padding-right: 30px;
 	font-size: 20px;
 	color: #FFFFFF;
-	line-height: 30px;
+	line-height: 40px;
 }
 
 /* FOOTER */
@@ -93,10 +91,6 @@ a:link {
 	background-color: #10161E !important;
 	bottom: 0px;
 	width: 100%;
-	left: 0;
-	margin-top: auto;
-	margin-bottom: 0;
-	flex: 0;
 }
 
 #footer img {
